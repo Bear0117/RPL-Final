@@ -13,11 +13,11 @@
 ## Experiments Results
    1. Plan1 image captured results:
 
-    ![Plan 1](./assets/plan1/plan1_result.jpg)
+    ![Plan1](./assets/plan1/plan1_result.jpg)
 
    2. Plan2 image captured results:
 
-    ![Plan 2](./assets/plan2/plan2_result.jpg)
+    ![Plan2](./assets/plan2/plan2_result.jpg)
 
    3. Success rate:
 
