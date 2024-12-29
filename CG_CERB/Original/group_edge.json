@@ -1,0 +1,10 @@
+{
+  "edge_0": {
+    "edge_id": 0,
+    "passageway_bbox": {"min": [2.08, 1.0, 0.21], "max": [3.62, -0.43, 6.5]},
+    "object_1_id": 3,
+    "object_2_id": 1,
+    "description": "Hallway is connected to a classroom."
+  }
+}
+  

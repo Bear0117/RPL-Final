@@ -1,0 +1,22 @@
+{
+  "edge_0": {
+    "edge_id": 0,
+    "edge_description": "box on top of mini fridge",
+    "num_detections": 2,
+    "object_1_id": 27,
+    "object_1_tag": "box",
+    "object_2_id": 24,
+    "object_2_tag": "mini fridge",
+    "relationship": "on top of"
+  },
+  "edge_1": {
+    "edge_id": 1,
+    "edge_description": "fire extinguisher on top of storage bin",
+    "num_detections": 6,
+    "object_1_id": 403,
+    "object_1_tag": "fire extinguisher",
+    "object_2_id": 398,
+    "object_2_tag": "storage bin",
+    "relationship": "on top of"
+  }
+}

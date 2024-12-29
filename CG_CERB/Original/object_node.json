@@ -1,0 +1,3522 @@
+{
+  "object_1": {
+    "id": 1,
+    "object_tag": "fan",
+    "object_caption": "A ceiling-mounted fan attached to the wall.",
+    "bbox_extent": [
+      0.07,
+      0.03,
+      0.03
+    ],
+    "bbox_center": [
+      2.97,
+      -2.0,
+      3.46
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_2": {
+    "id": 2,
+    "object_tag": "floor",
+    "object_caption": "No captions provided.",
+    "bbox_extent": [
+      2.82,
+      2.09,
+      0.05
+    ],
+    "bbox_center": [
+      1.53,
+      0.63,
+      2.88
+    ],
+    "bbox_volume": 0.29
+  },
+  "object_3": {
+    "id": 5,
+    "object_tag": "storage bin",
+    "object_caption": "Box located on the floor near the doorway.",
+    "bbox_extent": [
+      0.37,
+      0.08,
+      0.06
+    ],
+    "bbox_center": [
+      0.43,
+      -0.4,
+      3.96
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_4": {
+    "id": 6,
+    "object_tag": "broom",
+    "object_caption": "A broom leaning against the wall near the open door.",
+    "bbox_extent": [
+      1.07,
+      0.43,
+      0.34
+    ],
+    "bbox_center": [
+      0.6,
+      0.08,
+      3.87
+    ],
+    "bbox_volume": 0.16
+  },
+  "object_5": {
+    "id": 24,
+    "object_tag": "mini fridge",
+    "object_caption": "A small black mini fridge with a glass door near the door.",
+    "bbox_extent": [
+      0.87,
+      0.63,
+      0.32
+    ],
+    "bbox_center": [
+      0.44,
+      0.18,
+      3.71
+    ],
+    "bbox_volume": 0.18
+  },
+  "object_6": {
+    "id": 27,
+    "object_tag": "box",
+    "object_caption": "A small cardboard box on the floor near the door.",
+    "bbox_extent": [
+      0.61,
+      0.47,
+      0.33
+    ],
+    "bbox_center": [
+      0.36,
+      -0.39,
+      3.83
+    ],
+    "bbox_volume": 0.09
+  },
+  "object_7": {
+    "id": 47,
+    "object_tag": "closet wall",
+    "object_caption": "A section of the interior wall adjacent to the closet door, featuring a wall calendar with a QR code, and an electrical power outlet near the floor.",
+    "bbox_extent": [
+      2.38,
+      1.33,
+      0.94
+    ],
+    "bbox_center": [
+      0.49,
+      -0.5,
+      3.69
+    ],
+    "bbox_volume": 2.98
+  },
+  "object_8": {
+    "id": 62,
+    "object_tag": "sign",
+    "object_caption": "A safety sign with warning symbols and text on the glass door.",
+    "bbox_extent": [
+      0.71,
+      0.43,
+      0.27
+    ],
+    "bbox_center": [
+      0.58,
+      -1.12,
+      3.84
+    ],
+    "bbox_volume": 0.08
+  },
+  "object_9": {
+    "id": 141,
+    "object_tag": "ceiling light",
+    "object_caption": "A fluorescent ceiling light fixture.",
+    "bbox_extent": [
+      0.41,
+      0.06,
+      0.01
+    ],
+    "bbox_center": [
+      1.99,
+      -1.78,
+      5.13
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_10": {
+    "id": 142,
+    "object_tag": "mirror",
+    "object_caption": "A rectangular mirror on the left wall reflecting part of the room.",
+    "bbox_extent": [
+      1.39,
+      0.88,
+      0.14
+    ],
+    "bbox_center": [
+      0.72,
+      -0.83,
+      6.69
+    ],
+    "bbox_volume": 0.17
+  },
+  "object_11": {
+    "id": 143,
+    "object_tag": "power outlet",
+    "object_caption": "An electrical power outlet on the wall near the floor.",
+    "bbox_extent": [
+      0.15,
+      0.08,
+      0.01
+    ],
+    "bbox_center": [
+      0.36,
+      0.31,
+      6.74
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_12": {
+    "id": 151,
+    "object_tag": "door",
+    "object_caption": "A partially open wooden door with a reflective surface leading into a room.",
+    "bbox_extent": [
+      2.08,
+      1.0,
+      0.21
+    ],
+    "bbox_center": [
+      3.62,
+      -0.43,
+      6.5
+    ],
+    "bbox_volume": 0.44
+  },
+  "object_13": {
+    "id": 152,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      1.18,
+      0.16,
+      0.01
+    ],
+    "bbox_center": [
+      1.59,
+      -1.83,
+      6.45
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_14": {
+    "id": 154,
+    "object_tag": "ceiling",
+    "object_caption": "No captions provided for consolidation.",
+    "bbox_extent": [
+      3.21,
+      0.52,
+      0.19
+    ],
+    "bbox_center": [
+      2.97,
+      -1.87,
+      6.02
+    ],
+    "bbox_volume": 0.32
+  },
+  "object_15": {
+    "id": 158,
+    "object_tag": "sign",
+    "object_caption": "A small sign with a red background on the wall near the door.",
+    "bbox_extent": [
+      0.28,
+      0.09,
+      0.01
+    ],
+    "bbox_center": [
+      2.54,
+      -1.06,
+      6.27
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_16": {
+    "id": 165,
+    "object_tag": "fire extinguisher",
+    "object_caption": "A red fire extinguisher mounted on the wall.",
+    "bbox_extent": [
+      0.61,
+      0.37,
+      0.16
+    ],
+    "bbox_center": [
+      4.96,
+      0.05,
+      5.63
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_17": {
+    "id": 171,
+    "object_tag": "ceiling",
+    "object_caption": "Please provide the captions to consolidate.",
+    "bbox_extent": [
+      1.05,
+      0.34,
+      0.08
+    ],
+    "bbox_center": [
+      4.2,
+      -1.89,
+      5.31
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_18": {
+    "id": 172,
+    "object_tag": "fire extinguisher",
+    "object_caption": "A red fire extinguisher mounted on the wall.",
+    "bbox_extent": [
+      0.5,
+      0.07,
+      0.02
+    ],
+    "bbox_center": [
+      4.93,
+      0.09,
+      5.71
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_19": {
+    "id": 176,
+    "object_tag": "floor",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      17.84,
+      2.71,
+      0.22
+    ],
+    "bbox_center": [
+      2.05,
+      0.53,
+      5.06
+    ],
+    "bbox_volume": 10.64
+  },
+  "object_20": {
+    "id": 185,
+    "object_tag": "paper towel dispenser",
+    "object_caption": "White paper towel dispenser next to the door.",
+    "bbox_extent": [
+      0.22,
+      0.18,
+      0.02
+    ],
+    "bbox_center": [
+      5.54,
+      -0.17,
+      5.56
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_21": {
+    "id": 187,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.06,
+      0.05,
+      0.01
+    ],
+    "bbox_center": [
+      5.2,
+      -1.87,
+      5.1
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_22": {
+    "id": 188,
+    "object_tag": "picture",
+    "object_caption": "A framed picture hanging on the wall.",
+    "bbox_extent": [
+      0.08,
+      0.01,
+      0.0
+    ],
+    "bbox_center": [
+      6.0,
+      -1.07,
+      5.45
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_23": {
+    "id": 190,
+    "object_tag": "picture",
+    "object_caption": "A small picture or sign on the wall.",
+    "bbox_extent": [
+      0.2,
+      0.2,
+      0.02
+    ],
+    "bbox_center": [
+      6.17,
+      -1.09,
+      5.4
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_24": {
+    "id": 191,
+    "object_tag": "door",
+    "object_caption": "A closed wooden door with a window.",
+    "bbox_extent": [
+      0.79,
+      0.08,
+      0.02
+    ],
+    "bbox_center": [
+      6.44,
+      0.16,
+      5.34
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_25": {
+    "id": 193,
+    "object_tag": "door",
+    "object_caption": "Brown door on the left side of the hallway.",
+    "bbox_extent": [
+      0.87,
+      0.21,
+      0.03
+    ],
+    "bbox_center": [
+      6.52,
+      0.13,
+      5.34
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_26": {
+    "id": 199,
+    "object_tag": "ceiling",
+    "object_caption": "There was an error in submitting the captions. Please provide the captions for consolidation.",
+    "bbox_extent": [
+      0.79,
+      0.16,
+      0.14
+    ],
+    "bbox_center": [
+      7.07,
+      -1.82,
+      4.17
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_27": {
+    "id": 203,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.11,
+      0.05,
+      0.02
+    ],
+    "bbox_center": [
+      7.44,
+      -1.81,
+      4.09
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_28": {
+    "id": 205,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.67,
+      0.58,
+      0.17
+    ],
+    "bbox_center": [
+      7.89,
+      -1.87,
+      4.2
+    ],
+    "bbox_volume": 0.07
+  },
+  "object_29": {
+    "id": 211,
+    "object_tag": "closet door",
+    "object_caption": "A wooden door on the right side of the hallway.",
+    "bbox_extent": [
+      1.81,
+      0.79,
+      0.03
+    ],
+    "bbox_center": [
+      7.15,
+      -0.55,
+      2.7
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_30": {
+    "id": 214,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet or dresser.",
+    "bbox_extent": [
+      0.18,
+      0.13,
+      0.02
+    ],
+    "bbox_center": [
+      8.1,
+      -1.88,
+      4.38
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_31": {
+    "id": 216,
+    "object_tag": "ceiling",
+    "object_caption": "A wooden rack on a kitchen counter with spices and condiments.",
+    "bbox_extent": [
+      0.51,
+      0.3,
+      0.06
+    ],
+    "bbox_center": [
+      8.41,
+      -1.81,
+      3.68
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_32": {
+    "id": 220,
+    "object_tag": "picture",
+    "object_caption": "A small framed picture on the right wall near the ceiling.",
+    "bbox_extent": [
+      0.39,
+      0.22,
+      0.04
+    ],
+    "bbox_center": [
+      8.15,
+      -1.11,
+      2.47
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_33": {
+    "id": 229,
+    "object_tag": "telephone",
+    "object_caption": "A wall-mounted telephone near the door.",
+    "bbox_extent": [
+      0.18,
+      0.16,
+      0.01
+    ],
+    "bbox_center": [
+      7.96,
+      -0.66,
+      2.51
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_34": {
+    "id": 239,
+    "object_tag": "ceiling",
+    "object_caption": "There was an error in processing your request: it seems the captions were not provided in the message. Please provide the captions for processing.",
+    "bbox_extent": [
+      0.92,
+      0.37,
+      0.28
+    ],
+    "bbox_center": [
+      10.03,
+      -1.92,
+      3.57
+    ],
+    "bbox_volume": 0.1
+  },
+  "object_35": {
+    "id": 240,
+    "object_tag": "closet door",
+    "object_caption": "Wooden door slightly open, leading into a darkened closet.",
+    "bbox_extent": [
+      2.1,
+      0.16,
+      0.14
+    ],
+    "bbox_center": [
+      8.51,
+      -0.47,
+      4.89
+    ],
+    "bbox_volume": 0.05
+  },
+  "object_36": {
+    "id": 241,
+    "object_tag": "tv",
+    "object_caption": "A small wall-mounted monitor near the doorway.",
+    "bbox_extent": [
+      0.3,
+      0.22,
+      0.04
+    ],
+    "bbox_center": [
+      8.71,
+      -0.77,
+      4.79
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_37": {
+    "id": 244,
+    "object_tag": "light switch",
+    "object_caption": "A light switch located on the wall near the door.",
+    "bbox_extent": [
+      0.15,
+      0.07,
+      0.03
+    ],
+    "bbox_center": [
+      7.69,
+      -0.8,
+      5.13
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_38": {
+    "id": 246,
+    "object_tag": "power outlet",
+    "object_caption": "Power outlet on the wall near the door.",
+    "bbox_extent": [
+      0.18,
+      0.06,
+      0.03
+    ],
+    "bbox_center": [
+      7.7,
+      0.39,
+      5.19
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_39": {
+    "id": 247,
+    "object_tag": "dining table",
+    "object_caption": "A wooden dining table set in the room.",
+    "bbox_extent": [
+      0.05,
+      0.01,
+      0.01
+    ],
+    "bbox_center": [
+      8.96,
+      0.58,
+      6.44
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_40": {
+    "id": 249,
+    "object_tag": "chair",
+    "object_caption": "A white chair positioned at the dining table in a row with others.",
+    "bbox_extent": [
+      0.15,
+      0.03,
+      0.02
+    ],
+    "bbox_center": [
+      8.74,
+      0.59,
+      6.61
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_41": {
+    "id": 252,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.09,
+      0.01,
+      0.0
+    ],
+    "bbox_center": [
+      8.73,
+      -1.83,
+      6.02
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_42": {
+    "id": 255,
+    "object_tag": "closet wall",
+    "object_caption": "A plain section of the closet wall with a door on the left side.",
+    "bbox_extent": [
+      2.06,
+      0.56,
+      0.07
+    ],
+    "bbox_center": [
+      7.08,
+      -0.44,
+      5.2
+    ],
+    "bbox_volume": 0.08
+  },
+  "object_43": {
+    "id": 259,
+    "object_tag": "floor",
+    "object_caption": "A small cigar box on the side cabinet or dresser.",
+    "bbox_extent": [
+      2.09,
+      0.96,
+      0.03
+    ],
+    "bbox_center": [
+      8.37,
+      0.59,
+      6.34
+    ],
+    "bbox_volume": 0.06
+  },
+  "object_44": {
+    "id": 265,
+    "object_tag": "chair",
+    "object_caption": "A long dining table with a wood finish.",
+    "bbox_extent": [
+      0.15,
+      0.1,
+      0.03
+    ],
+    "bbox_center": [
+      8.81,
+      0.58,
+      7.04
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_45": {
+    "id": 272,
+    "object_tag": "picture",
+    "object_caption": "A rectangular picture on the wall.",
+    "bbox_extent": [
+      0.36,
+      0.22,
+      0.01
+    ],
+    "bbox_center": [
+      7.78,
+      -1.02,
+      5.61
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_46": {
+    "id": 274,
+    "object_tag": "power outlet",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.13,
+      0.08,
+      0.01
+    ],
+    "bbox_center": [
+      8.05,
+      0.3,
+      7.4
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_47": {
+    "id": 275,
+    "object_tag": "poster",
+    "object_caption": "A small rectangular poster on a brown door.",
+    "bbox_extent": [
+      0.29,
+      0.18,
+      0.01
+    ],
+    "bbox_center": [
+      6.8,
+      -0.92,
+      5.25
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_48": {
+    "id": 276,
+    "object_tag": "fire extinguisher",
+    "object_caption": "A red fire extinguisher mounted on the wall.",
+    "bbox_extent": [
+      0.18,
+      0.16,
+      0.02
+    ],
+    "bbox_center": [
+      4.61,
+      0.25,
+      5.65
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_49": {
+    "id": 278,
+    "object_tag": "picture",
+    "object_caption": "A small rectangular framed picture on the wall.",
+    "bbox_extent": [
+      0.54,
+      0.24,
+      0.04
+    ],
+    "bbox_center": [
+      6.03,
+      -1.14,
+      5.35
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_50": {
+    "id": 279,
+    "object_tag": "paper towel dispenser",
+    "object_caption": "A dispenser with an empty slot on the wall.",
+    "bbox_extent": [
+      0.6,
+      0.25,
+      0.01
+    ],
+    "bbox_center": [
+      5.37,
+      -0.15,
+      5.51
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_51": {
+    "id": 280,
+    "object_tag": "fire extinguisher",
+    "object_caption": "Red fire extinguisher mounted on the wall.",
+    "bbox_extent": [
+      0.5,
+      0.18,
+      0.1
+    ],
+    "bbox_center": [
+      4.73,
+      0.16,
+      5.59
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_52": {
+    "id": 283,
+    "object_tag": "fire extinguisher",
+    "object_caption": "A red fire extinguisher mounted on the right wall.",
+    "bbox_extent": [
+      0.62,
+      0.46,
+      0.16
+    ],
+    "bbox_center": [
+      4.74,
+      0.06,
+      5.57
+    ],
+    "bbox_volume": 0.05
+  },
+  "object_53": {
+    "id": 285,
+    "object_tag": "fire extinguisher",
+    "object_caption": "Red fire extinguisher mounted on the wall.",
+    "bbox_extent": [
+      0.61,
+      0.37,
+      0.05
+    ],
+    "bbox_center": [
+      4.72,
+      0.09,
+      5.6
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_54": {
+    "id": 288,
+    "object_tag": "ceiling",
+    "object_caption": "Please provide the captions to consolidate into a single, clear description.",
+    "bbox_extent": [
+      0.66,
+      0.2,
+      0.11
+    ],
+    "bbox_center": [
+      4.7,
+      -1.8,
+      4.66
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_55": {
+    "id": 292,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.45,
+      0.11,
+      0.07
+    ],
+    "bbox_center": [
+      4.38,
+      -1.87,
+      4.03
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_56": {
+    "id": 297,
+    "object_tag": "poster",
+    "object_caption": "A poster with text on the left wall next to the closet door.",
+    "bbox_extent": [
+      0.56,
+      0.21,
+      0.03
+    ],
+    "bbox_center": [
+      3.79,
+      -0.91,
+      3.41
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_57": {
+    "id": 298,
+    "object_tag": "poster",
+    "object_caption": "A small poster on the right wall.",
+    "bbox_extent": [
+      0.25,
+      0.19,
+      0.01
+    ],
+    "bbox_center": [
+      5.36,
+      -0.86,
+      5.48
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_58": {
+    "id": 306,
+    "object_tag": "poster",
+    "object_caption": "A poster with text and images on the wall.",
+    "bbox_extent": [
+      0.25,
+      0.03,
+      0.01
+    ],
+    "bbox_center": [
+      3.37,
+      -0.76,
+      3.48
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_59": {
+    "id": 311,
+    "object_tag": "fire extinguisher",
+    "object_caption": "A red fire extinguisher mounted on the wall.",
+    "bbox_extent": [
+      0.17,
+      0.17,
+      0.02
+    ],
+    "bbox_center": [
+      4.6,
+      0.35,
+      5.67
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_60": {
+    "id": 324,
+    "object_tag": "bulletin board",
+    "object_caption": "Informational board mounted on the left wall.",
+    "bbox_extent": [
+      0.1,
+      0.09,
+      0.02
+    ],
+    "bbox_center": [
+      0.84,
+      -0.16,
+      4.12
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_61": {
+    "id": 326,
+    "object_tag": "window",
+    "object_caption": "A large rectangular mirror on the right wall reflecting the hallway.",
+    "bbox_extent": [
+      0.74,
+      0.46,
+      0.04
+    ],
+    "bbox_center": [
+      1.33,
+      -1.25,
+      6.42
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_62": {
+    "id": 329,
+    "object_tag": "bulletin board",
+    "object_caption": "An informational timeline bulletin board on the left wall.",
+    "bbox_extent": [
+      0.4,
+      0.2,
+      0.02
+    ],
+    "bbox_center": [
+      0.55,
+      -0.17,
+      4.18
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_63": {
+    "id": 330,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.4,
+      0.07,
+      0.06
+    ],
+    "bbox_center": [
+      0.88,
+      -1.77,
+      5.5
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_64": {
+    "id": 335,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.58,
+      0.09,
+      0.06
+    ],
+    "bbox_center": [
+      0.69,
+      -1.84,
+      5.18
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_65": {
+    "id": 337,
+    "object_tag": "power outlet",
+    "object_caption": "A power outlet on the right wall of the hallway near the floor.",
+    "bbox_extent": [
+      0.21,
+      0.09,
+      0.05
+    ],
+    "bbox_center": [
+      0.83,
+      0.25,
+      6.54
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_66": {
+    "id": 339,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      1.47,
+      0.73,
+      0.09
+    ],
+    "bbox_center": [
+      0.43,
+      -1.76,
+      6.65
+    ],
+    "bbox_volume": 0.1
+  },
+  "object_67": {
+    "id": 344,
+    "object_tag": "mirror",
+    "object_caption": "Reflective window surface on the left wall.",
+    "bbox_extent": [
+      0.19,
+      0.06,
+      0.03
+    ],
+    "bbox_center": [
+      -0.52,
+      -1.97,
+      4.35
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_68": {
+    "id": 345,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet or dresser.",
+    "bbox_extent": [
+      0.54,
+      0.14,
+      0.07
+    ],
+    "bbox_center": [
+      -0.29,
+      -1.88,
+      5.41
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_69": {
+    "id": 346,
+    "object_tag": "bulletin board",
+    "object_caption": "An informational bulletin board on the left wall.",
+    "bbox_extent": [
+      0.55,
+      0.38,
+      0.02
+    ],
+    "bbox_center": [
+      -0.55,
+      -0.31,
+      4.41
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_70": {
+    "id": 347,
+    "object_tag": "ceiling",
+    "object_caption": "",
+    "bbox_extent": [
+      0.53,
+      0.23,
+      0.11
+    ],
+    "bbox_center": [
+      -0.39,
+      -1.77,
+      5.82
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_71": {
+    "id": 349,
+    "object_tag": "bulletin board",
+    "object_caption": "A large bulletin board with various postings.",
+    "bbox_extent": [
+      0.05,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -0.99,
+      -0.14,
+      4.52
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_72": {
+    "id": 351,
+    "object_tag": "ceiling",
+    "object_caption": "A cigar box on the side cabinet or dresser.",
+    "bbox_extent": [
+      1.76,
+      0.68,
+      0.08
+    ],
+    "bbox_center": [
+      -0.3,
+      -1.75,
+      6.8
+    ],
+    "bbox_volume": 0.1
+  },
+  "object_73": {
+    "id": 353,
+    "object_tag": "mirror",
+    "object_caption": "A square mirror halfway down the left wall.",
+    "bbox_extent": [
+      0.24,
+      0.07,
+      0.03
+    ],
+    "bbox_center": [
+      -0.87,
+      -1.98,
+      4.41
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_74": {
+    "id": 354,
+    "object_tag": "ceiling",
+    "object_caption": "Sorry, it seems there was an error in receiving the required data to create a consolidated caption. Please provide the captions for processing.",
+    "bbox_extent": [
+      0.41,
+      0.16,
+      0.05
+    ],
+    "bbox_center": [
+      -0.76,
+      -1.79,
+      5.91
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_75": {
+    "id": 355,
+    "object_tag": "mirror",
+    "object_caption": "Large mirror on the right wall.",
+    "bbox_extent": [
+      0.09,
+      0.07,
+      0.02
+    ],
+    "bbox_center": [
+      -1.17,
+      -2.02,
+      4.46
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_76": {
+    "id": 356,
+    "object_tag": "ceiling",
+    "object_caption": "A small brown horse with a white mane grazing in a green field.",
+    "bbox_extent": [
+      0.56,
+      0.47,
+      0.1
+    ],
+    "bbox_center": [
+      -0.99,
+      -2.11,
+      4.72
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_77": {
+    "id": 358,
+    "object_tag": "wall",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.4,
+      0.25,
+      0.04
+    ],
+    "bbox_center": [
+      -1.16,
+      0.52,
+      4.55
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_78": {
+    "id": 359,
+    "object_tag": "mirror",
+    "object_caption": "Wall-mounted mirror reflecting the hallway.",
+    "bbox_extent": [
+      0.08,
+      0.04,
+      0.02
+    ],
+    "bbox_center": [
+      -1.26,
+      -1.98,
+      4.53
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_79": {
+    "id": 362,
+    "object_tag": "wall",
+    "object_caption": "",
+    "bbox_extent": [
+      0.67,
+      0.41,
+      0.04
+    ],
+    "bbox_center": [
+      -1.39,
+      0.23,
+      4.61
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_80": {
+    "id": 363,
+    "object_tag": "bulletin board",
+    "object_caption": "An informational bulletin board displayed on the wall.",
+    "bbox_extent": [
+      0.22,
+      0.14,
+      0.02
+    ],
+    "bbox_center": [
+      -1.61,
+      -0.19,
+      4.66
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_81": {
+    "id": 364,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box placed on a side cabinet or dresser.",
+    "bbox_extent": [
+      0.7,
+      0.16,
+      0.14
+    ],
+    "bbox_center": [
+      -1.1,
+      -1.87,
+      5.31
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_82": {
+    "id": 365,
+    "object_tag": "ceiling",
+    "object_caption": "A rectangular wooden table with four legs and a polished surface.",
+    "bbox_extent": [
+      0.67,
+      0.41,
+      0.18
+    ],
+    "bbox_center": [
+      -1.29,
+      -1.95,
+      5.46
+    ],
+    "bbox_volume": 0.05
+  },
+  "object_83": {
+    "id": 366,
+    "object_tag": "chair",
+    "object_caption": "A partially visible chair on the right side of the hallway in the room.",
+    "bbox_extent": [
+      0.1,
+      0.06,
+      0.01
+    ],
+    "bbox_center": [
+      -0.49,
+      -0.28,
+      6.9
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_84": {
+    "id": 369,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.31,
+      0.2,
+      0.04
+    ],
+    "bbox_center": [
+      -2.41,
+      -2.26,
+      5.08
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_85": {
+    "id": 383,
+    "object_tag": "lamp",
+    "object_caption": "A long ceiling lamp turned on in the hallway.",
+    "bbox_extent": [
+      0.37,
+      0.2,
+      0.06
+    ],
+    "bbox_center": [
+      -3.74,
+      -1.84,
+      6.34
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_86": {
+    "id": 386,
+    "object_tag": "ceiling",
+    "object_caption": "",
+    "bbox_extent": [
+      1.03,
+      0.78,
+      0.11
+    ],
+    "bbox_center": [
+      -3.87,
+      -1.85,
+      6.23
+    ],
+    "bbox_volume": 0.09
+  },
+  "object_87": {
+    "id": 395,
+    "object_tag": "power outlet",
+    "object_caption": "A power outlet on the wall near the door.",
+    "bbox_extent": [
+      0.27,
+      0.21,
+      0.09
+    ],
+    "bbox_center": [
+      -3.61,
+      -0.72,
+      7.54
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_88": {
+    "id": 398,
+    "object_tag": "storage bin",
+    "object_caption": "A red fire extinguisher against the wall with a red storage bin at its base.",
+    "bbox_extent": [
+      0.8,
+      0.46,
+      0.31
+    ],
+    "bbox_center": [
+      -5.04,
+      0.41,
+      7.8
+    ],
+    "bbox_volume": 0.11
+  },
+  "object_89": {
+    "id": 401,
+    "object_tag": "tv",
+    "object_caption": "A small wall-mounted screen displaying information.",
+    "bbox_extent": [
+      0.25,
+      0.17,
+      0.04
+    ],
+    "bbox_center": [
+      -3.69,
+      -0.79,
+      7.56
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_90": {
+    "id": 402,
+    "object_tag": "picture",
+    "object_caption": "A framed informational sign mounted on the wall.",
+    "bbox_extent": [
+      0.33,
+      0.2,
+      0.04
+    ],
+    "bbox_center": [
+      -3.51,
+      -1.12,
+      7.53
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_91": {
+    "id": 403,
+    "object_tag": "fire extinguisher",
+    "object_caption": "A red fire extinguisher mounted on the wall.",
+    "bbox_extent": [
+      0.73,
+      0.4,
+      0.24
+    ],
+    "bbox_center": [
+      -5.29,
+      0.26,
+      7.87
+    ],
+    "bbox_volume": 0.07
+  },
+  "object_92": {
+    "id": 421,
+    "object_tag": "power outlet",
+    "object_caption": "A wall-mounted power outlet near the floor.",
+    "bbox_extent": [
+      0.06,
+      0.02,
+      0.0
+    ],
+    "bbox_center": [
+      -4.59,
+      0.38,
+      7.84
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_93": {
+    "id": 426,
+    "object_tag": "power outlet",
+    "object_caption": "A power outlet located on the lower section of the wall.",
+    "bbox_extent": [
+      0.07,
+      0.03,
+      0.0
+    ],
+    "bbox_center": [
+      -4.64,
+      0.4,
+      7.87
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_94": {
+    "id": 449,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet next to the coffeepot.",
+    "bbox_extent": [
+      1.03,
+      0.39,
+      0.21
+    ],
+    "bbox_center": [
+      -6.26,
+      -1.9,
+      6.62
+    ],
+    "bbox_volume": 0.08
+  },
+  "object_95": {
+    "id": 453,
+    "object_tag": "ladder",
+    "object_caption": "A metal ladder attached to the ceiling.",
+    "bbox_extent": [
+      0.14,
+      0.07,
+      0.02
+    ],
+    "bbox_center": [
+      -6.12,
+      -1.82,
+      7.58
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_96": {
+    "id": 458,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box placed on the side cabinet.",
+    "bbox_extent": [
+      0.82,
+      0.31,
+      0.15
+    ],
+    "bbox_center": [
+      -6.41,
+      -1.89,
+      7.11
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_97": {
+    "id": 469,
+    "object_tag": "power outlet",
+    "object_caption": "A metal door hinge.",
+    "bbox_extent": [
+      0.06,
+      0.05,
+      0.01
+    ],
+    "bbox_center": [
+      -4.62,
+      -0.74,
+      7.88
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_98": {
+    "id": 470,
+    "object_tag": "closet door",
+    "object_caption": "A partially open brown wooden door with a metal handle and a white paper or sign attached.",
+    "bbox_extent": [
+      2.19,
+      1.03,
+      0.18
+    ],
+    "bbox_center": [
+      -4.56,
+      -0.48,
+      8.25
+    ],
+    "bbox_volume": 0.41
+  },
+  "object_99": {
+    "id": 472,
+    "object_tag": "bathtub",
+    "object_caption": "A whiteboard along the wall.",
+    "bbox_extent": [
+      0.85,
+      0.8,
+      0.12
+    ],
+    "bbox_center": [
+      -4.69,
+      0.15,
+      10.18
+    ],
+    "bbox_volume": 0.08
+  },
+  "object_100": {
+    "id": 474,
+    "object_tag": "floor",
+    "object_caption": "A small cigar box on the side cabinet next to the coffeepot.",
+    "bbox_extent": [
+      3.32,
+      3.36,
+      0.08
+    ],
+    "bbox_center": [
+      -3.24,
+      0.57,
+      10.43
+    ],
+    "bbox_volume": 0.89
+  },
+  "object_101": {
+    "id": 476,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.16,
+      0.05,
+      0.03
+    ],
+    "bbox_center": [
+      -4.51,
+      -1.85,
+      9.94
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_102": {
+    "id": 481,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.81,
+      0.27,
+      0.17
+    ],
+    "bbox_center": [
+      -4.6,
+      -1.89,
+      10.31
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_103": {
+    "id": 491,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.18,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -4.37,
+      -1.87,
+      11.4
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_104": {
+    "id": 492,
+    "object_tag": "ceiling",
+    "object_caption": "A rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.47,
+      0.24,
+      0.07
+    ],
+    "bbox_center": [
+      -4.1,
+      -2.1,
+      11.47
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_105": {
+    "id": 494,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.25,
+      0.11,
+      0.03
+    ],
+    "bbox_center": [
+      -4.0,
+      -2.09,
+      11.71
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_106": {
+    "id": 495,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.19,
+      0.07,
+      0.04
+    ],
+    "bbox_center": [
+      -3.91,
+      -2.05,
+      11.8
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_107": {
+    "id": 496,
+    "object_tag": "ceiling",
+    "object_caption": "The captions provided were not included. Please provide the captions for consolidation.",
+    "bbox_extent": [
+      0.13,
+      0.17,
+      0.07
+    ],
+    "bbox_center": [
+      -1.08,
+      -2.24,
+      10.98
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_108": {
+    "id": 497,
+    "object_tag": "chair",
+    "object_caption": "A row of theater-style chairs.",
+    "bbox_extent": [
+      0.09,
+      0.05,
+      0.01
+    ],
+    "bbox_center": [
+      -1.88,
+      0.15,
+      10.92
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_109": {
+    "id": 498,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.13,
+      0.09,
+      0.06
+    ],
+    "bbox_center": [
+      -0.99,
+      -2.26,
+      11.27
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_110": {
+    "id": 499,
+    "object_tag": "chair",
+    "object_caption": "A row of auditorium chairs.",
+    "bbox_extent": [
+      0.24,
+      0.17,
+      0.05
+    ],
+    "bbox_center": [
+      -1.58,
+      0.15,
+      11.89
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_111": {
+    "id": 501,
+    "object_tag": "storage bin",
+    "object_caption": "Part of the podium underneath the surface.",
+    "bbox_extent": [
+      0.07,
+      0.03,
+      0.0
+    ],
+    "bbox_center": [
+      -1.76,
+      0.43,
+      10.51
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_112": {
+    "id": 502,
+    "object_tag": "mini fridge",
+    "object_caption": "A podium designed for electronic functions.",
+    "bbox_extent": [
+      0.5,
+      0.36,
+      0.07
+    ],
+    "bbox_center": [
+      -2.38,
+      0.48,
+      12.35
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_113": {
+    "id": 503,
+    "object_tag": "refrigerator",
+    "object_caption": "A gray lectern with a control panel at the front of the room.",
+    "bbox_extent": [
+      1.21,
+      0.79,
+      0.6
+    ],
+    "bbox_center": [
+      -2.28,
+      0.03,
+      12.41
+    ],
+    "bbox_volume": 0.57
+  },
+  "object_114": {
+    "id": 504,
+    "object_tag": "sofa chair",
+    "object_caption": "A padded auditorium chair with a desk attachment.",
+    "bbox_extent": [
+      0.37,
+      0.16,
+      0.09
+    ],
+    "bbox_center": [
+      -1.86,
+      0.16,
+      10.74
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_115": {
+    "id": 505,
+    "object_tag": "sofa chair",
+    "object_caption": "A row of blue cushioned theater seats with wooden armrests.",
+    "bbox_extent": [
+      1.21,
+      0.89,
+      0.53
+    ],
+    "bbox_center": [
+      -1.49,
+      0.13,
+      11.72
+    ],
+    "bbox_volume": 0.57
+  },
+  "object_116": {
+    "id": 507,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.15,
+      0.16,
+      0.08
+    ],
+    "bbox_center": [
+      -0.88,
+      -2.3,
+      11.92
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_117": {
+    "id": 514,
+    "object_tag": "ceiling",
+    "object_caption": "No captions provided to consolidate.",
+    "bbox_extent": [
+      0.18,
+      0.04,
+      0.04
+    ],
+    "bbox_center": [
+      -0.72,
+      -2.27,
+      12.18
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_118": {
+    "id": 516,
+    "object_tag": "chair",
+    "object_caption": "Rows of blue cushioned lecture chairs with armrests.",
+    "bbox_extent": [
+      0.67,
+      0.5,
+      0.08
+    ],
+    "bbox_center": [
+      -1.23,
+      -0.2,
+      12.17
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_119": {
+    "id": 517,
+    "object_tag": "chair",
+    "object_caption": "Rows of cushioned blue lecture chairs with armrests.",
+    "bbox_extent": [
+      0.16,
+      0.09,
+      0.02
+    ],
+    "bbox_center": [
+      -1.49,
+      0.01,
+      12.34
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_120": {
+    "id": 520,
+    "object_tag": "chair",
+    "object_caption": "Black office chair with adjustable height and wheels.",
+    "bbox_extent": [
+      0.15,
+      0.04,
+      0.03
+    ],
+    "bbox_center": [
+      -3.28,
+      0.59,
+      13.09
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_121": {
+    "id": 521,
+    "object_tag": "armchair",
+    "object_caption": "A small trash bin on the floor.",
+    "bbox_extent": [
+      0.29,
+      0.12,
+      0.05
+    ],
+    "bbox_center": [
+      -1.92,
+      0.12,
+      10.71
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_122": {
+    "id": 527,
+    "object_tag": "chair",
+    "object_caption": "Chair with wheels in the middle of the room.",
+    "bbox_extent": [
+      0.37,
+      0.09,
+      0.03
+    ],
+    "bbox_center": [
+      -1.12,
+      -0.19,
+      12.56
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_123": {
+    "id": 534,
+    "object_tag": "sofa chair",
+    "object_caption": "A blue cushioned sofa chair with armrests.",
+    "bbox_extent": [
+      0.48,
+      0.36,
+      0.12
+    ],
+    "bbox_center": [
+      -1.6,
+      0.14,
+      12.04
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_124": {
+    "id": 536,
+    "object_tag": "sofa chair",
+    "object_caption": "A row of blue cushioned sofa chairs.",
+    "bbox_extent": [
+      0.37,
+      0.15,
+      0.13
+    ],
+    "bbox_center": [
+      -1.72,
+      0.17,
+      11.43
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_125": {
+    "id": 540,
+    "object_tag": "projector screen",
+    "object_caption": "A whiteboard with writing attached to the wall.",
+    "bbox_extent": [
+      1.34,
+      0.35,
+      0.07
+    ],
+    "bbox_center": [
+      -4.01,
+      -0.85,
+      12.94
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_126": {
+    "id": 541,
+    "object_tag": "chair",
+    "object_caption": "A black rolling chair with a cushioned seat, backrest, and swivel feature.",
+    "bbox_extent": [
+      0.52,
+      0.16,
+      0.11
+    ],
+    "bbox_center": [
+      -3.39,
+      0.1,
+      13.28
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_127": {
+    "id": 543,
+    "object_tag": "blackboard",
+    "object_caption": "A large whiteboard on the wall with markers attached.",
+    "bbox_extent": [
+      1.41,
+      1.16,
+      0.08
+    ],
+    "bbox_center": [
+      -4.12,
+      -0.87,
+      12.51
+    ],
+    "bbox_volume": 0.13
+  },
+  "object_128": {
+    "id": 545,
+    "object_tag": "lamp",
+    "object_caption": "An overhead lamp providing additional lighting.",
+    "bbox_extent": [
+      0.06,
+      0.02,
+      0.02
+    ],
+    "bbox_center": [
+      -2.0,
+      -2.25,
+      13.45
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_129": {
+    "id": 546,
+    "object_tag": "floor",
+    "object_caption": "A small cigar box placed on the side cabinet.",
+    "bbox_extent": [
+      2.77,
+      2.16,
+      0.06
+    ],
+    "bbox_center": [
+      -3.55,
+      0.58,
+      12.2
+    ],
+    "bbox_volume": 0.36
+  },
+  "object_130": {
+    "id": 547,
+    "object_tag": "ceiling light",
+    "object_caption": "A fluorescent ceiling light fixture.",
+    "bbox_extent": [
+      0.59,
+      0.14,
+      0.11
+    ],
+    "bbox_center": [
+      -3.95,
+      -1.87,
+      12.74
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_131": {
+    "id": 549,
+    "object_tag": "book",
+    "object_caption": "A whiteboard eraser on the tray below the board.",
+    "bbox_extent": [
+      0.17,
+      0.08,
+      0.04
+    ],
+    "bbox_center": [
+      -4.35,
+      -0.27,
+      11.47
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_132": {
+    "id": 550,
+    "object_tag": "end table",
+    "object_caption": "A small table holding a cup and a storage bin.",
+    "bbox_extent": [
+      0.19,
+      0.1,
+      0.02
+    ],
+    "bbox_center": [
+      -3.15,
+      0.57,
+      13.47
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_133": {
+    "id": 551,
+    "object_tag": "chair",
+    "object_caption": "A black chair with a cushion and wheels.",
+    "bbox_extent": [
+      0.27,
+      0.22,
+      0.05
+    ],
+    "bbox_center": [
+      -3.67,
+      -0.18,
+      13.42
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_134": {
+    "id": 558,
+    "object_tag": "closet wall",
+    "object_caption": "A large rectangular mirror with a metallic frame edge.",
+    "bbox_extent": [
+      1.33,
+      1.23,
+      0.07
+    ],
+    "bbox_center": [
+      -4.75,
+      -0.83,
+      9.55
+    ],
+    "bbox_volume": 0.11
+  },
+  "object_135": {
+    "id": 560,
+    "object_tag": "bathtub",
+    "object_caption": "Section of a white wall beneath a mirror and window.",
+    "bbox_extent": [
+      1.7,
+      0.7,
+      0.03
+    ],
+    "bbox_center": [
+      -4.83,
+      0.2,
+      9.59
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_136": {
+    "id": 562,
+    "object_tag": "speaker",
+    "object_caption": "Black speaker mounted on the wall near the ceiling.",
+    "bbox_extent": [
+      0.21,
+      0.09,
+      0.05
+    ],
+    "bbox_center": [
+      -4.5,
+      -1.65,
+      8.47
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_137": {
+    "id": 568,
+    "object_tag": "curtain",
+    "object_caption": "White ceiling panels resembling a curtain.",
+    "bbox_extent": [
+      0.16,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -4.43,
+      -1.95,
+      7.73
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_138": {
+    "id": 569,
+    "object_tag": "speaker",
+    "object_caption": "A small, wall-mounted speaker near the ceiling.",
+    "bbox_extent": [
+      0.36,
+      0.27,
+      0.09
+    ],
+    "bbox_center": [
+      -3.65,
+      -1.89,
+      7.59
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_139": {
+    "id": 573,
+    "object_tag": "power outlet",
+    "object_caption": "A power outlet located low on the wall near the floor.",
+    "bbox_extent": [
+      0.12,
+      0.08,
+      0.01
+    ],
+    "bbox_center": [
+      -3.35,
+      0.28,
+      7.48
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_140": {
+    "id": 580,
+    "object_tag": "telephone",
+    "object_caption": "A white wall-mounted telephone with a cord.",
+    "bbox_extent": [
+      0.22,
+      0.11,
+      0.03
+    ],
+    "bbox_center": [
+      -3.54,
+      -0.43,
+      7.53
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_141": {
+    "id": 582,
+    "object_tag": "floor",
+    "object_caption": "A small rectangular cigar box on the side cabinet or dresser.",
+    "bbox_extent": [
+      2.56,
+      2.21,
+      0.07
+    ],
+    "bbox_center": [
+      -4.12,
+      0.58,
+      7.71
+    ],
+    "bbox_volume": 0.4
+  },
+  "object_142": {
+    "id": 584,
+    "object_tag": "window",
+    "object_caption": "A glass window reflecting light above the door.",
+    "bbox_extent": [
+      0.2,
+      0.01,
+      0.0
+    ],
+    "bbox_center": [
+      -3.77,
+      -1.14,
+      7.49
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_143": {
+    "id": 603,
+    "object_tag": "closet wall",
+    "object_caption": "A section of the closet wall.",
+    "bbox_extent": [
+      1.96,
+      0.31,
+      0.03
+    ],
+    "bbox_center": [
+      -3.57,
+      -0.39,
+      7.56
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_144": {
+    "id": 610,
+    "object_tag": "wall",
+    "object_caption": "There seems to have been an error in the transmission as the captions were not provided. Please try again with the captions for me to assist you effectively.",
+    "bbox_extent": [
+      0.69,
+      0.34,
+      0.04
+    ],
+    "bbox_center": [
+      -5.59,
+      -1.98,
+      5.82
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_145": {
+    "id": 611,
+    "object_tag": "wall",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.25,
+      0.05,
+      0.02
+    ],
+    "bbox_center": [
+      -4.91,
+      -2.12,
+      5.4
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_146": {
+    "id": 613,
+    "object_tag": "whiteboard",
+    "object_caption": "A small square whiteboard mounted on the wall.",
+    "bbox_extent": [
+      0.79,
+      0.78,
+      0.05
+    ],
+    "bbox_center": [
+      -5.85,
+      -0.95,
+      5.51
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_147": {
+    "id": 614,
+    "object_tag": "window",
+    "object_caption": "A wall-mounted mirror reflecting ceiling lights.",
+    "bbox_extent": [
+      1.28,
+      0.75,
+      0.08
+    ],
+    "bbox_center": [
+      -3.65,
+      -1.79,
+      5.0
+    ],
+    "bbox_volume": 0.08
+  },
+  "object_148": {
+    "id": 615,
+    "object_tag": "wall",
+    "object_caption": "Large window reflecting ceiling lights.",
+    "bbox_extent": [
+      4.31,
+      3.07,
+      0.1
+    ],
+    "bbox_center": [
+      -5.13,
+      -0.38,
+      5.36
+    ],
+    "bbox_volume": 1.32
+  },
+  "object_149": {
+    "id": 616,
+    "object_tag": "power outlet",
+    "object_caption": "A power outlet with two sockets located near the floor.",
+    "bbox_extent": [
+      0.14,
+      0.1,
+      0.04
+    ],
+    "bbox_center": [
+      -5.64,
+      0.28,
+      5.46
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_150": {
+    "id": 641,
+    "object_tag": "window",
+    "object_caption": "A large rectangular window with a reflective surface on the wall.",
+    "bbox_extent": [
+      1.01,
+      0.5,
+      0.36
+    ],
+    "bbox_center": [
+      -4.65,
+      -1.15,
+      5.1
+    ],
+    "bbox_volume": 0.18
+  },
+  "object_151": {
+    "id": 666,
+    "object_tag": "closet door",
+    "object_caption": "A small rectangular cigar box on the side cabinet next to the coffeepot.",
+    "bbox_extent": [
+      0.93,
+      0.11,
+      0.01
+    ],
+    "bbox_center": [
+      -6.63,
+      -1.1,
+      5.7
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_152": {
+    "id": 668,
+    "object_tag": "door",
+    "object_caption": "Double glass door in a hallway.",
+    "bbox_extent": [
+      2.11,
+      1.02,
+      0.46
+    ],
+    "bbox_center": [
+      -7.08,
+      -0.48,
+      5.67
+    ],
+    "bbox_volume": 0.99
+  },
+  "object_153": {
+    "id": 669,
+    "object_tag": "closet door",
+    "object_caption": "A wooden door, possibly leading to a closet.",
+    "bbox_extent": [
+      0.55,
+      0.26,
+      0.08
+    ],
+    "bbox_center": [
+      -7.63,
+      0.46,
+      5.9
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_154": {
+    "id": 670,
+    "object_tag": "picture",
+    "object_caption": "A framed picture on the right wall.",
+    "bbox_extent": [
+      0.38,
+      0.24,
+      0.05
+    ],
+    "bbox_center": [
+      -6.95,
+      -0.75,
+      8.26
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_155": {
+    "id": 671,
+    "object_tag": "picture",
+    "object_caption": "A framed picture on the right wall.",
+    "bbox_extent": [
+      0.42,
+      0.22,
+      0.04
+    ],
+    "bbox_center": [
+      -6.98,
+      -1.12,
+      8.26
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_156": {
+    "id": 672,
+    "object_tag": "floor",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      17.5,
+      2.63,
+      0.13
+    ],
+    "bbox_center": [
+      -3.34,
+      0.53,
+      6.26
+    ],
+    "bbox_volume": 5.98
+  },
+  "object_157": {
+    "id": 673,
+    "object_tag": "mirror",
+    "object_caption": "A large rectangular mirror on the right wall adjacent to a door.",
+    "bbox_extent": [
+      1.65,
+      0.95,
+      0.07
+    ],
+    "bbox_center": [
+      -7.65,
+      -0.59,
+      8.43
+    ],
+    "bbox_volume": 0.11
+  },
+  "object_158": {
+    "id": 677,
+    "object_tag": "mirror",
+    "object_caption": "A rectangular mirror on the right wall.",
+    "bbox_extent": [
+      0.99,
+      0.54,
+      0.04
+    ],
+    "bbox_center": [
+      -7.5,
+      -1.23,
+      8.39
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_159": {
+    "id": 688,
+    "object_tag": "ceiling",
+    "object_caption": "A small wooden box on the table.",
+    "bbox_extent": [
+      0.64,
+      0.37,
+      0.12
+    ],
+    "bbox_center": [
+      -8.13,
+      -1.86,
+      6.98
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_160": {
+    "id": 698,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet next to the coffeepot.",
+    "bbox_extent": [
+      0.5,
+      0.12,
+      0.05
+    ],
+    "bbox_center": [
+      -8.63,
+      -1.8,
+      7.65
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_161": {
+    "id": 700,
+    "object_tag": "picture",
+    "object_caption": "A framed picture on the wall.",
+    "bbox_extent": [
+      0.04,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -7.18,
+      -1.16,
+      8.34
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_162": {
+    "id": 702,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.81,
+      0.7,
+      0.12
+    ],
+    "bbox_center": [
+      -9.05,
+      -1.84,
+      7.45
+    ],
+    "bbox_volume": 0.07
+  },
+  "object_163": {
+    "id": 706,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      1.27,
+      0.96,
+      0.29
+    ],
+    "bbox_center": [
+      -9.66,
+      -1.93,
+      7.5
+    ],
+    "bbox_volume": 0.35
+  },
+  "object_164": {
+    "id": 716,
+    "object_tag": "light switch",
+    "object_caption": "Light switch panel beside a doorway.",
+    "bbox_extent": [
+      0.17,
+      0.12,
+      0.02
+    ],
+    "bbox_center": [
+      -10.26,
+      -0.65,
+      9.02
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_165": {
+    "id": 720,
+    "object_tag": "towel",
+    "object_caption": "A white square panel on the wall beside the doorway.",
+    "bbox_extent": [
+      0.35,
+      0.25,
+      0.05
+    ],
+    "bbox_center": [
+      -11.61,
+      -0.97,
+      9.03
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_166": {
+    "id": 723,
+    "object_tag": "closet door",
+    "object_caption": "A door frame on the right side of the image.",
+    "bbox_extent": [
+      0.84,
+      0.15,
+      0.05
+    ],
+    "bbox_center": [
+      -11.36,
+      -1.05,
+      9.35
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_167": {
+    "id": 724,
+    "object_tag": "floor",
+    "object_caption": "No captions provided to consolidate.",
+    "bbox_extent": [
+      4.51,
+      2.61,
+      0.22
+    ],
+    "bbox_center": [
+      -14.42,
+      0.48,
+      8.87
+    ],
+    "bbox_volume": 2.59
+  },
+  "object_168": {
+    "id": 725,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box placed on the side cabinet or dresser.",
+    "bbox_extent": [
+      0.45,
+      0.06,
+      0.02
+    ],
+    "bbox_center": [
+      -13.65,
+      -1.76,
+      8.48
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_169": {
+    "id": 726,
+    "object_tag": "ceiling light",
+    "object_caption": "A long fluorescent ceiling light illuminating the hallway.",
+    "bbox_extent": [
+      0.54,
+      0.24,
+      0.1
+    ],
+    "bbox_center": [
+      -13.64,
+      -1.82,
+      8.57
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_170": {
+    "id": 728,
+    "object_tag": "ceiling light",
+    "object_caption": "A bright rectangular ceiling light.",
+    "bbox_extent": [
+      0.35,
+      0.14,
+      0.03
+    ],
+    "bbox_center": [
+      -13.85,
+      -1.82,
+      8.6
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_171": {
+    "id": 732,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.51,
+      0.29,
+      0.19
+    ],
+    "bbox_center": [
+      -14.32,
+      -1.88,
+      8.54
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_172": {
+    "id": 737,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.6,
+      0.33,
+      0.2
+    ],
+    "bbox_center": [
+      -14.66,
+      -2.04,
+      9.72
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_173": {
+    "id": 740,
+    "object_tag": "bulletin board",
+    "object_caption": "A red fire hydrant cabinet with Chinese characters and emergency equipment on the wall.",
+    "bbox_extent": [
+      1.34,
+      0.82,
+      0.04
+    ],
+    "bbox_center": [
+      -15.8,
+      -0.41,
+      7.88
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_174": {
+    "id": 742,
+    "object_tag": "ceiling",
+    "object_caption": "A small cigar box on the side cabinet or dresser.",
+    "bbox_extent": [
+      1.12,
+      0.83,
+      0.18
+    ],
+    "bbox_center": [
+      -15.6,
+      -2.03,
+      8.2
+    ],
+    "bbox_volume": 0.17
+  },
+  "object_175": {
+    "id": 747,
+    "object_tag": "mini fridge",
+    "object_caption": "Mini fridge with stickers near the window.",
+    "bbox_extent": [
+      1.35,
+      0.4,
+      0.06
+    ],
+    "bbox_center": [
+      -15.98,
+      -0.4,
+      7.9
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_176": {
+    "id": 758,
+    "object_tag": "closet door",
+    "object_caption": "A gray closet door with a handle.",
+    "bbox_extent": [
+      1.97,
+      0.27,
+      0.18
+    ],
+    "bbox_center": [
+      -12.48,
+      -0.45,
+      7.36
+    ],
+    "bbox_volume": 0.1
+  },
+  "object_177": {
+    "id": 761,
+    "object_tag": "door",
+    "object_caption": "Gray door slightly ajar with a metallic handle.",
+    "bbox_extent": [
+      2.04,
+      0.78,
+      0.21
+    ],
+    "bbox_center": [
+      -12.24,
+      -0.45,
+      7.39
+    ],
+    "bbox_volume": 0.33
+  },
+  "object_178": {
+    "id": 763,
+    "object_tag": "closet wall",
+    "object_caption": "A section of a light-colored wall with visible panel lines.",
+    "bbox_extent": [
+      1.82,
+      0.59,
+      0.03
+    ],
+    "bbox_center": [
+      -12.75,
+      -0.45,
+      7.2
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_179": {
+    "id": 766,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.49,
+      0.12,
+      0.1
+    ],
+    "bbox_center": [
+      -10.48,
+      -1.82,
+      8.11
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_180": {
+    "id": 767,
+    "object_tag": "lamp",
+    "object_caption": "Cylindrical wall-mounted lamp on the left.",
+    "bbox_extent": [
+      0.12,
+      0.02,
+      0.0
+    ],
+    "bbox_center": [
+      -10.1,
+      -1.59,
+      9.07
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_181": {
+    "id": 769,
+    "object_tag": "light switch",
+    "object_caption": "A light switch mounted on the wall.",
+    "bbox_extent": [
+      0.13,
+      0.13,
+      0.03
+    ],
+    "bbox_center": [
+      -10.19,
+      -0.67,
+      9.1
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_182": {
+    "id": 775,
+    "object_tag": "lamp",
+    "object_caption": "A wall-mounted lamp on the left.",
+    "bbox_extent": [
+      0.24,
+      0.04,
+      0.01
+    ],
+    "bbox_center": [
+      -10.05,
+      -1.66,
+      9.07
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_183": {
+    "id": 783,
+    "object_tag": "picture",
+    "object_caption": "A large mirror on the right wall of the hallway.",
+    "bbox_extent": [
+      0.25,
+      0.05,
+      0.02
+    ],
+    "bbox_center": [
+      -9.91,
+      -1.73,
+      6.58
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_184": {
+    "id": 784,
+    "object_tag": "clock",
+    "object_caption": "Digital clock mounted high on the left wall.",
+    "bbox_extent": [
+      0.27,
+      0.19,
+      0.02
+    ],
+    "bbox_center": [
+      -9.97,
+      -1.69,
+      9.06
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_185": {
+    "id": 794,
+    "object_tag": "closet door",
+    "object_caption": "Wooden closet door with a handle next to another door.",
+    "bbox_extent": [
+      0.86,
+      0.4,
+      0.05
+    ],
+    "bbox_center": [
+      -7.81,
+      -1.36,
+      6.11
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_186": {
+    "id": 802,
+    "object_tag": "door",
+    "object_caption": "A brown wooden door with a window.",
+    "bbox_extent": [
+      0.11,
+      0.01,
+      0.0
+    ],
+    "bbox_center": [
+      -6.64,
+      0.17,
+      8.26
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_187": {
+    "id": 804,
+    "object_tag": "door",
+    "object_caption": "A wooden door with a glass panel.",
+    "bbox_extent": [
+      0.45,
+      0.27,
+      0.03
+    ],
+    "bbox_center": [
+      -7.13,
+      -1.21,
+      5.89
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_188": {
+    "id": 805,
+    "object_tag": "door",
+    "object_caption": "A door with a digital lock on the left.",
+    "bbox_extent": [
+      0.42,
+      0.15,
+      0.03
+    ],
+    "bbox_center": [
+      -6.51,
+      0.3,
+      8.27
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_189": {
+    "id": 813,
+    "object_tag": "picture",
+    "object_caption": "A small framed picture on the wall.",
+    "bbox_extent": [
+      0.83,
+      0.74,
+      0.06
+    ],
+    "bbox_center": [
+      -5.6,
+      -0.97,
+      5.6
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_190": {
+    "id": 817,
+    "object_tag": "picture",
+    "object_caption": "A framed picture mounted on the right wall.",
+    "bbox_extent": [
+      0.37,
+      0.22,
+      0.03
+    ],
+    "bbox_center": [
+      -6.05,
+      -1.18,
+      5.69
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_191": {
+    "id": 822,
+    "object_tag": "fire extinguisher",
+    "object_caption": "A red fire extinguisher on the floor.",
+    "bbox_extent": [
+      0.16,
+      0.12,
+      0.04
+    ],
+    "bbox_center": [
+      -4.95,
+      0.33,
+      7.69
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_192": {
+    "id": 831,
+    "object_tag": "power outlet",
+    "object_caption": "A wall-mounted power outlet near the floor.",
+    "bbox_extent": [
+      0.16,
+      0.09,
+      0.01
+    ],
+    "bbox_center": [
+      -5.43,
+      0.21,
+      5.55
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_193": {
+    "id": 832,
+    "object_tag": "mirror",
+    "object_caption": "A large rectangular mirror on the right side reflecting the corridor.",
+    "bbox_extent": [
+      1.48,
+      0.53,
+      0.06
+    ],
+    "bbox_center": [
+      -4.01,
+      -0.92,
+      5.25
+    ],
+    "bbox_volume": 0.05
+  },
+  "object_194": {
+    "id": 845,
+    "object_tag": "mirror",
+    "object_caption": "Rectangular mirror frame on the wall.",
+    "bbox_extent": [
+      0.53,
+      0.07,
+      0.03
+    ],
+    "bbox_center": [
+      -3.31,
+      -1.37,
+      5.06
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_195": {
+    "id": 846,
+    "object_tag": "bulletin board",
+    "object_caption": "A large bulletin board with various notices and papers.",
+    "bbox_extent": [
+      1.62,
+      0.6,
+      0.05
+    ],
+    "bbox_center": [
+      -1.19,
+      -0.44,
+      4.62
+    ],
+    "bbox_volume": 0.05
+  },
+  "object_196": {
+    "id": 860,
+    "object_tag": "window",
+    "object_caption": "Large window providing a view into a room.",
+    "bbox_extent": [
+      0.38,
+      0.19,
+      0.01
+    ],
+    "bbox_center": [
+      -1.3,
+      -0.83,
+      4.64
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_197": {
+    "id": 864,
+    "object_tag": "window",
+    "object_caption": "A rectangular window set in the wall.",
+    "bbox_extent": [
+      0.21,
+      0.05,
+      0.01
+    ],
+    "bbox_center": [
+      -1.36,
+      -1.6,
+      4.67
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_198": {
+    "id": 870,
+    "object_tag": "power outlet",
+    "object_caption": "A wall power outlet close to the floor.",
+    "bbox_extent": [
+      0.09,
+      0.07,
+      0.01
+    ],
+    "bbox_center": [
+      1.16,
+      0.23,
+      6.53
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_199": {
+    "id": 873,
+    "object_tag": "window",
+    "object_caption": "large window with a view outside",
+    "bbox_extent": [
+      0.93,
+      0.1,
+      0.05
+    ],
+    "bbox_center": [
+      0.01,
+      -1.2,
+      4.31
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_200": {
+    "id": 875,
+    "object_tag": "mirror",
+    "object_caption": "A mirror on the left wall near the entrance.",
+    "bbox_extent": [
+      0.14,
+      0.07,
+      0.02
+    ],
+    "bbox_center": [
+      1.71,
+      -0.26,
+      6.44
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_201": {
+    "id": 887,
+    "object_tag": "closet door",
+    "object_caption": "A tall closet door slightly ajar.",
+    "bbox_extent": [
+      0.27,
+      0.15,
+      0.07
+    ],
+    "bbox_center": [
+      2.73,
+      0.38,
+      3.66
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_202": {
+    "id": 888,
+    "object_tag": "closet door",
+    "object_caption": "An open door leading into a room.",
+    "bbox_extent": [
+      1.37,
+      1.06,
+      0.24
+    ],
+    "bbox_center": [
+      3.4,
+      0.07,
+      3.47
+    ],
+    "bbox_volume": 0.35
+  },
+  "object_203": {
+    "id": 892,
+    "object_tag": "closet door",
+    "object_caption": "A closed wooden door along the hallway.",
+    "bbox_extent": [
+      0.08,
+      0.06,
+      0.02
+    ],
+    "bbox_center": [
+      3.54,
+      -1.03,
+      3.36
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_204": {
+    "id": 894,
+    "object_tag": "door",
+    "object_caption": "A closed wooden door leading to a room.",
+    "bbox_extent": [
+      0.5,
+      0.18,
+      0.07
+    ],
+    "bbox_center": [
+      3.2,
+      -0.89,
+      3.55
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_205": {
+    "id": 895,
+    "object_tag": "picture",
+    "object_caption": "A framed picture hanging on the wall.",
+    "bbox_extent": [
+      0.26,
+      0.05,
+      0.01
+    ],
+    "bbox_center": [
+      4.05,
+      -0.82,
+      3.46
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_206": {
+    "id": 897,
+    "object_tag": "picture",
+    "object_caption": "A framed picture hanging on the wall.",
+    "bbox_extent": [
+      0.67,
+      0.42,
+      0.05
+    ],
+    "bbox_center": [
+      4.24,
+      -0.9,
+      3.39
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_207": {
+    "id": 904,
+    "object_tag": "picture",
+    "object_caption": "A framed picture hanging on the wall.",
+    "bbox_extent": [
+      0.66,
+      0.17,
+      0.03
+    ],
+    "bbox_center": [
+      4.49,
+      -1.22,
+      3.32
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_208": {
+    "id": 905,
+    "object_tag": "picture",
+    "object_caption": "A framed picture hanging on the wall.",
+    "bbox_extent": [
+      0.45,
+      0.2,
+      0.02
+    ],
+    "bbox_center": [
+      3.98,
+      -1.18,
+      3.44
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_209": {
+    "id": 906,
+    "object_tag": "fire extinguisher",
+    "object_caption": "A red fire extinguisher mounted on the wall.",
+    "bbox_extent": [
+      0.24,
+      0.07,
+      0.02
+    ],
+    "bbox_center": [
+      4.18,
+      0.29,
+      2.52
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_210": {
+    "id": 907,
+    "object_tag": "picture",
+    "object_caption": "A framed picture hanging on the wall.",
+    "bbox_extent": [
+      0.28,
+      0.26,
+      0.02
+    ],
+    "bbox_center": [
+      4.3,
+      -1.11,
+      3.36
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_211": {
+    "id": 909,
+    "object_tag": "fire extinguisher",
+    "object_caption": "A small red fire extinguisher on the floor.",
+    "bbox_extent": [
+      0.31,
+      0.1,
+      0.02
+    ],
+    "bbox_center": [
+      4.17,
+      0.43,
+      2.55
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_212": {
+    "id": 910,
+    "object_tag": "ceiling",
+    "object_caption": "A small rectangular cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.98,
+      0.24,
+      0.09
+    ],
+    "bbox_center": [
+      3.84,
+      -2.07,
+      1.64
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_213": {
+    "id": 911,
+    "object_tag": "printer",
+    "object_caption": "There are no captions provided to consolidate.",
+    "bbox_extent": [
+      0.55,
+      0.35,
+      0.15
+    ],
+    "bbox_center": [
+      3.5,
+      -0.22,
+      2.19
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_214": {
+    "id": 912,
+    "object_tag": "file cabinet",
+    "object_caption": "White file cabinet with multiple drawers on the right.",
+    "bbox_extent": [
+      0.38,
+      0.29,
+      0.16
+    ],
+    "bbox_center": [
+      3.63,
+      0.35,
+      1.72
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_215": {
+    "id": 916,
+    "object_tag": "desk",
+    "object_caption": "A wooden desk with a metal frame and items on top, with a gray metal stool underneath.",
+    "bbox_extent": [
+      0.95,
+      0.66,
+      0.35
+    ],
+    "bbox_center": [
+      3.55,
+      0.2,
+      2.05
+    ],
+    "bbox_volume": 0.22
+  },
+  "object_216": {
+    "id": 918,
+    "object_tag": "storage organizer",
+    "object_caption": "Plastic storage organizer on the floor.",
+    "bbox_extent": [
+      0.53,
+      0.52,
+      0.1
+    ],
+    "bbox_center": [
+      3.47,
+      0.38,
+      1.34
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_217": {
+    "id": 919,
+    "object_tag": "closet wall",
+    "object_caption": "White wall as part of a closet or storage area.",
+    "bbox_extent": [
+      1.03,
+      0.28,
+      0.1
+    ],
+    "bbox_center": [
+      2.05,
+      -0.31,
+      3.79
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_218": {
+    "id": 920,
+    "object_tag": "stool",
+    "object_caption": "Gray metal stool positioned under a table with equipment on top.",
+    "bbox_extent": [
+      0.82,
+      0.87,
+      0.26
+    ],
+    "bbox_center": [
+      2.68,
+      0.33,
+      2.33
+    ],
+    "bbox_volume": 0.19
+  },
+  "object_219": {
+    "id": 921,
+    "object_tag": "printer",
+    "object_caption": "A large printer on a stand.",
+    "bbox_extent": [
+      0.7,
+      0.4,
+      0.15
+    ],
+    "bbox_center": [
+      2.7,
+      -0.17,
+      2.37
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_220": {
+    "id": 922,
+    "object_tag": "printer",
+    "object_caption": "A small cigar box on the side cabinet.",
+    "bbox_extent": [
+      0.49,
+      0.3,
+      0.1
+    ],
+    "bbox_center": [
+      2.7,
+      -0.14,
+      2.43
+    ],
+    "bbox_volume": 0.01
+  }
+}
